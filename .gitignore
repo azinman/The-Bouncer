@@ -1,0 +1,9 @@
+# os junk
+.DS_Store
+Thumbs.db
+
+# SBT
+target/
+lib_managed/
+src_managed/
+project/boot/
